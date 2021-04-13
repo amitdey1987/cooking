@@ -14,7 +14,7 @@
 | Curry Leaves | 8 ||
 | Onion | 1 Large | Diced |
 | Green Capsicum | 1 Large | Diced |
-| Tamarind Pulp | 3T bsp (1:5 Tamarind:Water)||
+| Tamarind Pulp | 2T Tbsp (1:5 Tamarind:Water)||
 | Salt | 2 Tbsp ||
 | Bisibele Bhath Powder | 4 tsp ||
 | Masala Boondi (Optional) ||

@@ -20,7 +20,7 @@
 | Fenugreek (Methi) Leaves or any leafy vegetables | 1 Cup | Stem Removed |
 | Vegetables (Mix of Cauliflower, Carrot, Beans, Peas, Okra) | 5 Cups | Chopped |
 | Salt | 2 Tbsp ||
-| Turmeric | 1 tsp ||
+| Turmeric | 2 tsp ||
 | Water | 4 Cups ||
 
 # Steps

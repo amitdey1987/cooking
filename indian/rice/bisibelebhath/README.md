@@ -17,7 +17,7 @@
 | Tamarind Pulp | 3T bsp (1:5 Tamarind:Water)||
 | Salt | 2 Tbsp ||
 | Bisibele Bhath Powder | 4 tsp ||
-| Masala Boondi ||
+| Masala Boondi (Optional) ||
 
 # Steps
 1. In Pressure Cooker, Add Rice, Dal, Vegetables (Not onion or Capsicum), 3 Cups Water

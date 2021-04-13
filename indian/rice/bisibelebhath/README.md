@@ -12,8 +12,8 @@
 | Mustard Seed | 1/2 tsp ||
 | Cashed Nut | 2 Tbsp ||
 | Curry Leaves | 12 ||
-| Onion | 1.5 Large | Diced |
-| Green Capsicum | 1.5 Large | Diced |
+| Onion | 1 Large | Diced |
+| Green Capsicum | 1 Large | Diced |
 | Tamarind Concentrate | 2T Tbsp||
 | Salt | 3 Tbsp ||
 | Bisibele Bhath Powder | 8 tsp ||

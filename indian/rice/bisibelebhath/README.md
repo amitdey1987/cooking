@@ -14,4 +14,18 @@
 | Curry Leaves | 8 ||
 | Onion | 1 Large | Diced |
 | Green Capsicum | 1 Large | Diced |
+| Tamarind Pulp | 3Tbsp (1:5 Tamarind:Water)||
+| Salt | 2 Tbsp ||
+| Bisibele Bhath Powder | 4 tsp ||
 | Masala Boondi ||
+
+# Steps
+1. In Pressure Cooker, Add Rice, Dal, Vegetables (Not onion or Capsicum), 3 Cups Water
+2. Cook 1 whistle on high flame, 1 whistle on low flame
+3. In Pan, Heat Ghee
+4. Add Mustard Seeds, Cashew Nuts, Curry Leaves, Onion, Capsicum
+5. Saute
+6. Add Bisibele Bhath Powder, Tamarind Pulp, Salt
+7. Cook
+8. Add contents of Pressure Cooker, Mix Well
+9. Cook

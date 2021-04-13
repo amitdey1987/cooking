@@ -14,7 +14,7 @@
 | Curry Leaves | 8 ||
 | Onion | 1 Large | Diced |
 | Green Capsicum | 1 Large | Diced |
-| Tamarind Pulp | 2T Tbsp (1:5 Tamarind:Water)||
+| Tamarind Concentrate | 1T Tbsp||
 | Salt | 2 Tbsp ||
 | Bisibele Bhath Powder | 4 tsp ||
 | Masala Boondi (Optional) ||
@@ -25,7 +25,7 @@
 3. In Pan, Heat Ghee
 4. Add Mustard Seeds, Cashew Nuts, Curry Leaves, Onion, Capsicum, 1 Tbsp Salt
 5. Saute
-6. Add Bisibele Bhath Powder, Tamarind Pulp, Salt
+6. Add Bisibele Bhath Powder, Tamarind Concentrate, Salt
 7. Cook
 8. Add contents of Pressure Cooker, Mix Well
 9. Cook

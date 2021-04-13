@@ -23,5 +23,7 @@
 | Turmeric | 1 tsp ||
 | Water | 4 Cups ||
 
-
-
+# Steps
+1. In Large Pressure Cooker, Add Everything.
+2. Cook for 3 Whistles.
+3. Let pressure release on it's own.

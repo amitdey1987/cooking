@@ -4,6 +4,9 @@
 
 [https://www.vahrehvah.com/mix-vegetable-kitchidi-mama-slim-line](https://www.vahrehvah.com/mix-vegetable-kitchidi-mama-slim-line)
 
+# Servings
+4
+
 # Ingredients
 | Ingredients | Amount | Prep
 | ------------- | ------------- | ------------- |

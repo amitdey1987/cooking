@@ -1,5 +1,5 @@
 # Servings
-3 Full Meals
+4 Full Meals
 
 # Ingredients
 | Ingredients | Amount | Prep

@@ -4,19 +4,19 @@
 # Ingredients
 | Ingredients | Amount | Prep
 | ------------- | ------------- | ------------- |
-| Rice | 1/4 Cup | Washed |
-| Toor Dal | 1/4 Cup ||
-| Vegetables (Mix of Carrot, Beans) | 1 Cup | Chopped |
-| Water | 3 Cups ||
-| Ghee | 1 tbsp ||
-| Mustard Seed | 1/4 tsp ||
-| Cashed Nut | 1 Tbsp ||
-| Curry Leaves | 8 ||
-| Onion | 1 Large | Diced |
-| Green Capsicum | 1 Large | Diced |
-| Tamarind Concentrate | 1T Tbsp||
-| Salt | 2 Tbsp ||
-| Bisibele Bhath Powder | 4 tsp ||
+| Rice | 1/2 Cup | Washed |
+| Toor Dal | 1/2 Cup ||
+| Vegetables (Mix of Carrot, Beans) | 2 Cups | Chopped |
+| Water | 4 Cups ||
+| Ghee | 2 tbsp ||
+| Mustard Seed | 1/2 tsp ||
+| Cashed Nut | 2 Tbsp ||
+| Curry Leaves | 12 ||
+| Onion | 1.5 Large | Diced |
+| Green Capsicum | 1.5 Large | Diced |
+| Tamarind Concentrate | 2T Tbsp||
+| Salt | 3 Tbsp ||
+| Bisibele Bhath Powder | 8 tsp ||
 | Masala Boondi (Optional) ||
 
 # Steps
@@ -25,7 +25,7 @@
 3. In Pan, Heat Ghee
 4. Add Mustard Seeds, Cashew Nuts, Curry Leaves, Onion, Capsicum, 1 Tbsp Salt
 5. Saute
-6. Add Bisibele Bhath Powder, Tamarind Concentrate, Salt
+6. Add Bisibele Bhath Powder, Tamarind Concentrate, 2 Tbsp Salt
 7. Cook
 8. Add contents of Pressure Cooker, Mix Well
 9. Cook

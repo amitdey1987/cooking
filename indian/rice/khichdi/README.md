@@ -8,17 +8,17 @@
 | Ingredients | Amount | Prep
 | ------------- | ------------- | ------------- |
 | Dal (any) | 1 Cup ||
-| Rice | 1 Cup | Wash |
-| Onion | 1 | Chop |
-| Tomato | 2 | Chop |
+| Rice | 1 Cup | Washed |
+| Onion | 1 | Chopped |
+| Tomato | 2 | Chopped |
 | Mint | 1/2 Cup ||
 | Coriander | 1/2 Cup ||
-| Green Chillies | 5 | Chop |
+| Green Chillies | 5 | Chopped |
 | Curry Leaves | 5 ||
-| Garlic | 6 Cloves | Chop |
-| Spinach | 1 Cup | Stem Removed, Chop |
+| Garlic | 6 Cloves | Chopped |
+| Spinach | 1 Cup | Stem Removed, Chopped |
 | Fenugreek (Methi) Leaves or any leafy vegetables | 1 Cup | Stem Removed |
-| Vegetables (Mix of Cauliflower, Carrot, Beans, Peas, Okra) | 5 Cups | Chop |
+| Vegetables (Mix of Cauliflower, Carrot, Beans, Peas, Okra) | 5 Cups | Chopped |
 | Salt | 2 Tbsp ||
 | Turmeric | 1 tsp ||
 | Water | 4 Cups ||

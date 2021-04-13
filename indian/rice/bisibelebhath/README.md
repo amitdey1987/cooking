@@ -23,10 +23,10 @@
 1. In Pressure Cooker, Add Rice, Dal, Vegetables (Not onion or Capsicum), 3 Cups Water
 2. Cook 1 whistle on high flame, 1 whistle on low flame
 3. In Pan, Heat Ghee
-4. Add Mustard Seeds, Cashew Nuts, Curry Leaves, Onion, Capsicum
+4. Add Mustard Seeds, Cashew Nuts, Curry Leaves, Onion, Capsicum, 1 Tbsp Salt
 5. Saute
 6. Add Bisibele Bhath Powder, Tamarind Pulp, Salt
 7. Cook
 8. Add contents of Pressure Cooker, Mix Well
 9. Cook
-10. Servder with Masala Boondi
+10. Server with Masala Boondi (Optional)

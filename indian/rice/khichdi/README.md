@@ -16,8 +16,8 @@
 | Green Chillies | 5 | Chop |
 | Curry Leaves | 5 ||
 | Garlic | 6 Cloves | Chop |
-| Spinach | 1 Cup | Chop |
-| Fenugreek (Methi) Leaves or any leafy vegetables | 1 Cup ||
+| Spinach | 1 Cup | Stem Removed, Chop |
+| Fenugreek (Methi) Leaves or any leafy vegetables | 1 Cup | Stem Removed |
 | Vegetables (Mix of Cauliflower, Carrot, Beans, Peas, Okra) | 5 Cups | Chop |
 | Salt | 2 Tbsp ||
 | Turmeric | 1 tsp ||

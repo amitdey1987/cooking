@@ -10,12 +10,12 @@
 | Water | 4 Cups ||
 | Ghee | 2 tbsp ||
 | Mustard Seed | 1/2 tsp ||
-| Cashed Nut | 2 Tbsp ||
+| Cashew Nut | 2 tbsp ||
 | Curry Leaves | 12 ||
 | Onion | 1 Large | Diced |
 | Green Capsicum | 1 Large | Diced |
-| Tamarind Concentrate | 1 Tbsp||
-| Salt | 3 Tbsp ||
+| Tamarind Concentrate | 1 tbsp||
+| Salt | 3 tbsp ||
 | Bisibele Bhath Powder | 8 tsp ||
 | Masala Boondi (Optional) ||
 

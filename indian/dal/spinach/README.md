@@ -19,7 +19,7 @@
 | Green Chili | 2 | Cut length wise |
 | Garlic Paste | 2 Tbsp ||
 | Onion | 1 Medium | Finely Chopped |
-| Tomato | 2 | Finely Chopped |
+| Tomato | 2 Medium | Finely Chopped |
 | Spinach | 75g / 1 Large Bowl | Roughly Chopped |
 | Coriander Leaves | 50g / 1 Small Bowl | Finely Chopped |
 # Steps

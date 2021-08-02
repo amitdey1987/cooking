@@ -1,3 +1,5 @@
+# Original Recipe
+[Spinach Dal - By Vahchef @ Vahrehvah.com](https://www.youtube.com/watch?v=rVLJGwYqwZI)
 # Servings
 4
 # Ingredients

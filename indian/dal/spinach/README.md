@@ -30,6 +30,6 @@
 5. Add Curry Leaves, Asafoetida (Hing), Green Chili. Cook for 2 minutes.
 6. Add turmeric. Cook for a minute.
 7. Add tomatoes and 0.5 Cups water. Cover and Cook for 5 minutes (or until tomatoes are starting to cook).
-8. Add spinach, and cook for 3 minutes (or until spinach is cooked).
+8. Add spinach, and cook uncovered for 3 minutes (or until spinach is cooked).
 9. Add cooked dal, butter, salt. Bring to boil, and let cook for 2 minutes.
 10. Add chopped coriander leaves.

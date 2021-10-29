@@ -21,3 +21,12 @@
 | Salt | 1 Tsp ||
 | Water | 1/4 Cup ||
 | Coconut | 1/2 Cup | Grated
+# Instructions
+1. In Pan, heat oil.
+2. Add m and splutter ustard seeds, urad dal, curry leaves, red chilli
+3. Add onion, green chilli and saute until onions shrink
+4. Add carrot, beans, turmeric powder, salt.
+5. Stir fry 2 minutes
+6. Add water, and mix well
+7. Cover and cook for 15 mins
+8. Add coconut and mix well

@@ -23,3 +23,11 @@
 3. Bring to boil (starches gelatinize).
 4. Place a lid and reduce heat to lower possible setting. Wait for water to be absorbed (~15 minutes).
 5. Turn-off heat, let rest with lid closed (10 minutes) (retrogradation. grain separates).
+
+# Vegetables
+1. Organic tastes better because they produce more defence mechanisms against pest which taste good.
+2. Chopping vegetables trigger reactions. So whole garlic taste different (light) from chopped (heavy).
+3. Keep chopped vegetables in cold water with lime juice to prevent oxidization.
+4. Boil with salted water to prevent losing flavor.
+5. Steam better than boil to retain texture.
+6. ** Minimal Vegetable Side Dish - Steam vegetable, Brown in Oil, Add spices, turn-off stove.

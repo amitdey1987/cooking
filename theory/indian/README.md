@@ -1,4 +1,6 @@
 # Pressure Cooking
+Measure cooking by time since first whistle, rather than total number of whistles.
+
 |Ingredient|Soak Time|Pressure Cook Time|
 |-|-|-|
 |Beans||3 mins|

@@ -35,3 +35,14 @@ Measure cooking by time since first whistle, rather than total number of whistle
 5. Steam better than boil to retain texture.
    
 **Minimal Vegetable Side Dish - Steam vegetable, Brown in Oil, Add spices, turn-off stove.**
+
+# Meat 
+1. Composed of Fat (tasteless but transports flavor), proteins, and connective-tissues (provides succulence).
+2. Proteins cook at 55-65 C, but connective-tissues cook at 65-70 C. Hard to balance.
+3. Brining is better than Marination to impart flavor, and retain moisture in meat.
+4. Thaw for multiple hours in refrigerator, or 15 minutes under running watrer at 40 C.
+
+# Eggs
+1. Add baking sofa during boiling eggs to make peeling easy.
+2. Before making scramnled eggs or omelette, add salt to broken egg 15 mins before cooking.
+3. 

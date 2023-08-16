@@ -50,4 +50,14 @@ Measure cooking by time since first whistle, rather than total number of whistle
 1. Fats transport flavor. So spices are added to hot oil.
 2. Each fat has a smoke point beyond which it will burn.
 3. Virgin or unrefined oil have lower smoke point so not suitable for deep frying. Better to use refined oil.
-4. Keep oil in dark, cool, air-tight to avoid going rancid
+4. Keep oil in dark, cool, air-tight to avoid going rancid.
+
+|Fat|Smoke Point(C)|Deep Frying|
+|-|-|-|
+|Butter|150|No|
+|Ghee|250|Yes|
+|Refined Coconut Oil|232|
+|Virgin Coconut Oil|177|
+|Refined Olive Oil|200|
+|Virgin Olive Oil|160|
+|Vegetable Oil|220| 

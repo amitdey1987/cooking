@@ -65,7 +65,8 @@ Measure cooking by time since first whistle, rather than total number of whistle
 # Taste
 |Base Taste|Added Taste|Amount Added|Effect|Example|
 |-|-|-|-|-|
-|Sweet|Salt|Low/Medium|Enhanced|
+|Sweet|Salt|Low/Medium|Enhanced|Kheer, Jaggery|
+|Sour|Salt|Low|Supressed|Yogurt|
 |Sour|Sweet|Medium|Supressed|
 |Sour|Bitter|Medium|Enhanced|
 |Bitter|Sweet|Low|Enhanced|
@@ -73,6 +74,8 @@ Measure cooking by time since first whistle, rather than total number of whistle
 |Bitter|Salt|Low/Medium|Supressed|
 |Bitter|Sweet|Medium|Enhanced|
 |Bitter|Sour|Medium|Supressed|
+
+Taste most sensitive at 20C to 30C.
 
 # Spices
 1. Portion of population can't handle raw cilantro, but everyone can eat in paste form.

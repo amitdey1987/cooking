@@ -60,4 +60,21 @@ Measure cooking by time since first whistle, rather than total number of whistle
 |Virgin Coconut Oil|177|
 |Refined Olive Oil|200|
 |Virgin Olive Oil|160|
-|Vegetable Oil|220| 
+|Vegetable Oil|220|
+
+# Taste
+|Base Taste|Added Taste|Amount Added|Effect|Example|
+|-|-|-|-|-|
+|Sweet|Salt|Low/Medium|Enhanced|
+|Bitter|Sweet|Low|Enhanced|
+|Bitter|Sour|Low|Enhanced|
+|Bitter|Salt|Low/Medium|Supressed|
+|Bitter|Sweet|Medium|Enhanced|
+|Sour|Sweet|Medium|Supressed|
+|Sour|Bitter|Medium|Enhanced|
+|Bitter|Sour|Medium|Supressed|
+
+
+
+# Spices
+1. Portion of population can't handle raw cilantro, but everyone can eat in paste form.

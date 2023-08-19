@@ -91,5 +91,14 @@ Taste most sensitive at 20C to 30C.
 3. Sugar mutes saltiness, sourness and bitterness.
 4. Sugar enhances flavors in spices.
 
+# Heat (Chilli)
+1. Water doesn't help to subside chilli. Milk, Sugar might help.
+2. Green chilli is 4-5x hotter than Kashmiri.
+3. Crushsed chilli will be hot, but lose flavor.
+4. Heat intensifies other flavors.
+5. Fat mutes heat.
+6. Sour (Acid) amplifies heat.
+7. Heat can reduce perception of richness/fattiness. So add when dish is too creamy/heavy.
+
 # Spices
 1. Portion of population can't handle raw cilantro, but everyone can eat in paste form.

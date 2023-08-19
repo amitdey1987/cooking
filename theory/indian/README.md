@@ -77,5 +77,19 @@ Measure cooking by time since first whistle, rather than total number of whistle
 
 Taste most sensitive at 20C to 30C.
 
+# Salt
+1. Increases aroma, balances sweetness, balances sourness, reduces bitterness.
+2. 1-1.5 % salt is tasty and healthy.
+3. Avoid Iodized salt for deep-frying and baking as it gives metallic taste.
+4. Pink Salt, Rock Salt, Black Salt (aromatic) have lower saltiness. So use more if substituting regular salt.
+5. Dehydrades vegetables (Salads).
+6. Retains moistures in meat (Brining).
+
+# Sugar
+1. Jaggery and Honey are less sweet, but more complex in layers. Honey breaks down with heat.
+2. 0.75% sugar in dish makes it sweet.
+3. Sugar mutes saltiness, sourness and bitterness.
+4. Sugar enhances flavors in spices.
+
 # Spices
 1. Portion of population can't handle raw cilantro, but everyone can eat in paste form.

@@ -115,3 +115,28 @@ Affect of taste on spice flavor
 # Extracting Flavor
 Amount of flavor depends on
 1. Mechanical Damage : Whole < Cut < Chop < Smash < Mince < Grind.
+2. How you cook - Dry-Roast, Oil-Roast, Boil.
+3. How long - Longer means less intensity
+4. What you pari with - acid, fat, salt, sugar.
+
+## Dry Spice (Black Pepper, Cardomom, Conammon, Clove)
+1. Mechanical Damage : Fine Grind > Coarse Grind > Whole.
+4. Powder has short shelf life.
+5. Dry roasting before damage will extract more flavor
+6. Oil roasting before damage will extract most flavor
+7. Add near end of cooking for more flavor.
+
+## Dry Herbs (fenugreek or dried mint)
+1. Crush before use for most flavors
+2. Best added near end of cooking
+
+## Fresh Spices (ginger garlic)
+1. Paste > Mince > Rough Chop > Whole
+
+## Fresh Herbs (Coriander Curry Leaves)
+1. Paste > Mince > Rough Chop > Whole
+2. Use paste immediately
+
+## Exceptions
+1. Saffron soaked in milk to extract.
+2. Mustard soaked in water before grinding to paste.

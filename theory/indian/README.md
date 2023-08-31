@@ -19,7 +19,7 @@ Measure cooking by time since first whistle, rather than total number of whistle
 |Chickpea|8 hours|20 mins|
 |Black Urad|8 hours|20 mins|
 |Rajma|8 hours|20 mins|
-
+|Lobis|8 Hours|10 mins|
 # Rice
 1. Wash rice until water runs clear (removes sticky starch)
 2. Add water to rice until first knuckle (better measure than ratio as takes into consideration evaporation).
@@ -100,5 +100,16 @@ Taste most sensitive at 20C to 30C.
 6. Sour (Acid) amplifies heat.
 7. Heat can reduce perception of richness/fattiness. So add when dish is too creamy/heavy.
 
-# Spices
-1. Portion of population can't handle raw cilantro, but everyone can eat in paste form.
+# Flavor
+Portion of population can't handle raw cilantro, but everyone can eat in paste form.
+
+Affect of taste on spice flavor
+1. Salt amplifies
+2. Sweet amplifies
+3. Bitter have strong aroma
+4. Sour balances flavors, makes multiple flavor standout
+5. Umami makes spice linger
+6. Heat make spice pleasurable
+7. Fat transports flavor.
+
+# Extracting Flavor

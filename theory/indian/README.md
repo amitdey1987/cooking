@@ -140,3 +140,9 @@ Amount of flavor depends on
 ## Exceptions
 1. Saffron soaked in milk to extract.
 2. Mustard soaked in water before grinding to paste.
+
+Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
+1. Heat Jira with Oil in beginning
+2. Add roasted Jira powder during cooking
+3. Tadka with Jeera
+4. Jeera infused oil for finishing.

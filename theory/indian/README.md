@@ -146,3 +146,8 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Add roasted Jira powder during cooking
 3. Tadka with Jeera
 4. Jeera infused oil for finishing.
+
+# Spice Mix
+1. Pick one (or 2) flavor categroy
+2. Pick one spice from each of the selected flavor category
+3. For each spice, pick another spice form any category with atleast one common flavor molecule (see masala lab book)

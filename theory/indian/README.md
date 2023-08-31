@@ -113,3 +113,5 @@ Affect of taste on spice flavor
 7. Fat transports flavor.
 
 # Extracting Flavor
+Amount of flavor depends on
+1. Mechanical Damage : Whole < Cut < Chop < Smash < Mince < Grind.

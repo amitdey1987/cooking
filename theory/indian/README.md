@@ -151,3 +151,9 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 1. Pick one (or 2) flavor categroy
 2. Pick one spice from each of the selected flavor category
 3. For each spice, pick another spice form any category with atleast one common flavor molecule (see masala lab book)
+
+# Onions
+1. Yellow/Brown - Most flavorful
+2. Purple - Less flavorful. Suitable for salads
+3. White - Sweet used for mediterranean or mexican
+4. Shallow - Not Onion. Sweeter. Used for south-indian and south-east-asian curry.

@@ -180,4 +180,12 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Oven takes longer but more uniform
 3. Consider browning any many ingredients as possible before adding to gravy
 
+# Frying
+1. Happens at 170C. Saute happens in 110-150C.
+2. Outer layer instantly dehydrate to form a waterproof crust.
+3. Moisture retains inside due to crust. Heat continues to go inside.
+4. Outer layer underoes mailard reaction to become delicious.
+5. You can only fry something that has sugar and protein. So we use batter or breadcrumbs (starch) to deep-fry chicken.
+6. Keep fried food at 93C Oven until consumption.
+
    

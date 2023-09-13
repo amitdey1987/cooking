@@ -160,4 +160,10 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 4. Shallow - Not Onion. Sweeter. Used for south-indian and south-east-asian curry.
 ## Flavor
 1. Mechanical Damage - Mince > Slice across bulb > Slice along bulb.
+## Stages of heating
+1. Sweating - Slightly wilted. Still crunchy.
+2. Translucent - Fully wilted. No Crunch. Milder taste, suitable for korma.
+3. Light Browning - Maillard reaction. Suitable for stronger curry like tikka masala.
+4. Golden Brown - Must babysit can burn. Suitable for roghan josh, bhuna.
+5. Caramelization - Low and slow. Slighlty sweet. Put on bread or in gujrati dishes.
 

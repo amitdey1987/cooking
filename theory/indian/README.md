@@ -171,3 +171,13 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 1. Mechanical Damage - Mince > Chopped > Whole
 2. Can get burned quickly. Cook on medium heat. Or cook after onion, so it can stay safe in onion water.
 3. Caramelized garlic can be made in oven. Wrap entire bulb of garlic in foil paper. Can be added to chutney.
+
+# Potato
+1. Parboil with baking soda. This creates grooves for cripier frying layer.
+
+# Mailard reaction
+1. Don't move thing on pan which you want to brown
+2. Oven takes longer but more uniform
+3. Consider browning any many ingredients as possible before adding to gravy
+
+   

@@ -167,3 +167,7 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 4. Golden Brown - Must babysit can burn. Suitable for roghan josh, bhuna.
 5. Caramelization - Low and slow. Slighlty sweet. Put on bread or in gujrati dishes.
 
+# Garlic
+1. Mechanical Damage - Mince > Chopped > Whole
+2. Can get burned quickly. Cook on medium heat. Or cook after onion, so it can stay safe in onion water.
+3. Caramelized garlic can be made in oven. Wrap entire bulb of garlic in foil paper. Can be added to chutney.

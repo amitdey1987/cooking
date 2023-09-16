@@ -188,4 +188,10 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 5. You can only fry something that has sugar and protein. So we use batter or breadcrumbs (starch) to deep-fry chicken.
 6. Keep fried food at 93C Oven until consumption.
 
+# Sourness
+1. Reduces bitterness
+2. Highlights each flavor
+3. Minimizes perception of fattiness
+4. Balances overly sweet dish
+5. Acid in marination help meat absorb flavor molecules like garlic, garam masala.
    

@@ -217,5 +217,21 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 3. Never add early in cooking.
 4. Try different kind of citrus juices - orange, lime, lemon, etc.
 5. Squeeze lime, lemon and keep at room temperatue for few hours before consuming.
-6. 
+
+## Vinegar
+1. You may replace citrus juice with vinegar (half quantity)
+2. Red wine vinegar works well with meat
+3. Apple Cider vinegar works well with chutney
+
+## Tomatoes
+1. Most of flavor is in seeds and gooey pulp.
+2. Flavor improves by cooking long on low heat.
+3. Layer tomato flavor by using fresh tomato, paste and ketchup.
+4. Salt tomatoes ahead of time in salad to dehyrdate them.
+
+## Other acids
+1. Dried Pomengranate seeds can add fruity sourness. Used in punjabi dishes like chana masala and chutney
+2. Food consumed with Soda on the side helps.
+3. After saute of onion, garlic, giner, and spices add splash of wine will deglaze(extract) all the brown bits, extract more flavor and add sourness.
+   
    

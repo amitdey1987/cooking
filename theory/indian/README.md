@@ -195,4 +195,27 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 3. Minimizes perception of fattiness
 4. Balances overly sweet dish
 5. Acid in marination help meat absorb flavor molecules like garlic, garam masala.
+
+## Yogurt
+1. Doesn't heat well. Add at end of dish.
+2. If you need to add in beginning, whisk some starch (besan, wheat flour, rice flour or corn flour) to avoid clumps.
+
+## Tamarind
+1. Can survive long cooking times.
+2. Ideal cook times is 6-8 minutes.
+3. Kokum, Malabar tamarind have milder flavor profile. Suitable for seafood.
+
+## Mango
+1. Amchur can add sourness without moisture. Suitable for dry dishes.
+2. Can be used in marination to tenderize meat.
+3. Layered sourness by using lime juice, yogurt and amschur instead of just once acid.
+4. Best added at end of meal.
+
+## Citrus Juice
+1. Citrus Juice can add sourness without fruity flavors (amchur-mango).
+2. Peel add fruit flavors (e.g. Lime).
+3. Never add early in cooking.
+4. Try different kind of citrus juices - orange, lime, lemon, etc.
+5. Squeeze lime, lemon and keep at room temperatue for few hours before consuming.
+6. 
    

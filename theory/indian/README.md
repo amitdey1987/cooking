@@ -152,35 +152,36 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Pick one spice from each of the selected flavor category
 3. For each spice, pick another spice form any category with atleast one common flavor molecule (see masala lab book)
 
-# Onions
-## Types
+# Browning
+## Onions
+### Types
 1. Yellow/Brown - Most flavorful
 2. Purple - Less flavorful. Suitable for salads
 3. White - Sweet used for mediterranean or mexican
 4. Shallow - Not Onion. Sweeter. Used for south-indian and south-east-asian curry.
-## Flavor
+### Flavor
 1. Mechanical Damage - Mince > Slice across bulb > Slice along bulb.
-## Stages of heating
+### Stages of heating
 1. Sweating - Slightly wilted. Still crunchy.
 2. Translucent - Fully wilted. No Crunch. Milder taste, suitable for korma.
 3. Light Browning - Maillard reaction. Suitable for stronger curry like tikka masala.
 4. Golden Brown - Must babysit can burn. Suitable for roghan josh, bhuna.
 5. Caramelization - Low and slow. Slighlty sweet. Put on bread or in gujrati dishes.
 
-# Garlic
+## Garlic
 1. Mechanical Damage - Mince > Chopped > Whole
 2. Can get burned quickly. Cook on medium heat. Or cook after onion, so it can stay safe in onion water.
 3. Caramelized garlic can be made in oven. Wrap entire bulb of garlic in foil paper. Can be added to chutney.
 
-# Potato
+## Potato
 1. Parboil with baking soda. This creates grooves for cripier frying layer.
 
-# Mailard reaction
+## Mailard reaction
 1. Don't move thing on pan which you want to brown
 2. Oven takes longer but more uniform
 3. Consider browning any many ingredients as possible before adding to gravy
 
-# Frying
+## Frying
 1. Happens at 170C. Saute happens in 110-150C.
 2. Outer layer instantly dehydrate to form a waterproof crust.
 3. Moisture retains inside due to crust. Heat continues to go inside.

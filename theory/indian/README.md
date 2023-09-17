@@ -233,5 +233,26 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 1. Dried Pomengranate seeds can add fruity sourness. Used in punjabi dishes like chana masala and chutney
 2. Food consumed with Soda on the side helps.
 3. After saute of onion, garlic, giner, and spices add splash of wine will deglaze(extract) all the brown bits, extract more flavor and add sourness.
+
+# Umami
+1. Contained in tomato, MSG.
+2. Helps linger salt and sweet in the mouth.
+
+# Baking Soda
+1. Breaks down chana, rajma, black urad udal and reduces cooking time.
+2. When par-boiling potato can make them crips
+3. Can keep vegetables green while cooking.
+4. Add to meat for 5 minutes to tenderize.
+5. Add to dosa or wada for more browning.
+6. Added to sauteed chicken will give right amount of browning.
+7. Fluffier omelette.
+
+# Alcohol
+1. After fat, alcohol are best in extracting and transporting flavor molecules
+2. Helps creating aromatic dishes
+## Uses
+1. Spash of vodka when cooking onions, ginger, garlic, tomato and spice
+2. Wine with finishing spices during end of cooking
+3. When deep-frying fish use a batter made of maida, salt and vodka. Cripier crust.
    
    

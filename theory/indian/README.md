@@ -254,5 +254,28 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 1. Spash of vodka when cooking onions, ginger, garlic, tomato and spice
 2. Wine with finishing spices during end of cooking
 3. When deep-frying fish use a batter made of maida, salt and vodka. Cripier crust.
-   
+
+# Next Level
+## Microwave
+1. Sprinkle some water on dry food before microwave.
+2. Papad rolled in glass before microwave for even cook.
+
+## Dehdyrators
+1. Dehdyrators can make sun-dried tomato, onion, ginger powder, amchoor.
+2. You can also use conventional oven on low setting for long time.
+
+## Electric Cookers
+1. More consistent temperature and pressure.
+
+## Modern Ingredients
+1. Sodium Citrate - use as emlusifier (mix fat and water). e.g. Cheese dips.
+2. Sodium Bisulphite - Add to green chutney to avoid discoloration.
+3. Xanathan Gum - thicken gravy.
+4. Soy Lecithin - emulsifier. Increase shelf life.
+
+## Smoking
+1. Heat a piece of charcoal
+2. Place in metal cup
+3. Add teaspoon of ghee
+4. Add cup to dish and seal with lid
    

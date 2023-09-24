@@ -308,6 +308,10 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 7. Bake - Less Oil. 180C. More time.
 8. Deep Fry - Tastes good.
 
+### Tips
+1. Don't throw peels. Make Stock
+2. Green Leafy/Delicate Vegetables - Tear with hand. Cutting with knife will wilt.
+
 ## Meat
 1. Brine better than marination
 2. Don't marinate for more than 1 hour.
@@ -330,10 +334,4 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Scrambled Eggs - Break eggs. Salt for 15 minutes. Cook in butter. Add cream or milk for fluffiness.
 3. Poached Eggs - 95C water. Drop egg. Till white sets
 4. Omelette - Break eggs. Salt for 15 minutes. Add cubes of frozen butter during cooking for creamy texture.
-
-   
-
-### Tips
-1. Don't throw peels. Make Stock
-2. Green Leafy/Delicate Vegetables - Tear with hand. Cutting with knife will wilt.
    

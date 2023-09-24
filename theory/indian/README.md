@@ -308,6 +308,31 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 7. Bake - Less Oil. 180C. More time.
 8. Deep Fry - Tastes good.
 
+## Meat
+1. Brine better than marination
+2. Don't marinate for more than 1 hour.
+3. Brine Chicken pieces in 8 percent bring for 1 hour.
+4. Bring Fish in 8 percent bring for 30 minutes
+
+## Legumes
+1. Cook separately
+2. Add baking soda for harder/bigger legume
+3. Avoid salt in pressure-cooking
+4. Add fat when pressure-cooking to avoid foaming
+5. You can cook small lentils in microwave
+
+## Rice
+1. Wash thoroughly until water runs clear
+2. Soak for 20-30 minutes for long-grain, so water absorption happens. Evenly cooked
+
+## Eggs
+1. Boiled eggs - After boiling starts, 8 minutes for medium. 12 minutes for hard. Pinch of baking soda to prevent shell sticking.
+2. Scrambled Eggs - Break eggs. Salt for 15 minutes. Cook in butter. Add cream or milk for fluffiness.
+3. Poached Eggs - 95C water. Drop egg. Till white sets
+4. Omelette - Break eggs. Salt for 15 minutes. Add cubes of frozen butter during cooking for creamy texture.
+
+   
+
 ### Tips
 1. Don't throw peels. Make Stock
 2. Green Leafy/Delicate Vegetables - Tear with hand. Cutting with knife will wilt.

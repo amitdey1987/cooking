@@ -372,3 +372,10 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 6. Follow steamd rice instructions
 7. When water reaches rice, you may optionally add finishing spices like saffron in milk, garam masala. Must be done before closing lid.
 8. When fluffing, garnish with herbs
+
+## Gravy
+### Dal
+1. Pressure-cook lentil
+2. Add salt
+3. Temper with whole spices - cumin, chillies mustard
+4. Garnish with fresh herbs like coriander.

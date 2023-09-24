@@ -278,4 +278,37 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Place in metal cup
 3. Add teaspoon of ghee
 4. Add cup to dish and seal with lid
+
+# Burn the Recipe
+## Onion
+1. Cubed have least flaor. Best added late in dish.
+2. Half moon - mild flavor
+3. Minced - Medium flavor
+4. Pureed - High flavor. Added in beginning.
+
+## Tomato
+1. Chopped - More texture
+2. Pureed - Smooth Gravy Dish
+3. Add concentrated tomato paste.
+4. If not tomato paste ,use ketchup
+5. If tomato is star of show, add dehdrated tomato powder.
+
+## Vegetables
+### Prep
+1. Peel - but not too much. More flavor near skin.
+2. Cut - Chopped to size you want
+3. Cut - Minced if cooking for short time (as it will cook faster)
+### Cook Options
+1. Use as-is
+2. Blanch - best for green leafy
+3. Puree - best for green leafy
+4. Boil
+5. Steam (better than boil)
+6. Saute in fat - brown
+7. Bake - Less Oil. 180C. More time.
+8. Deep Fry - Tastes good.
+
+### Tips
+1. Don't throw peels. Make Stock
+2. Green Leafy/Delicate Vegetables - Tear with hand. Cutting with knife will wilt.
    

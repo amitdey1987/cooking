@@ -335,3 +335,40 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 3. Poached Eggs - 95C water. Drop egg. Till white sets
 4. Omelette - Break eggs. Salt for 15 minutes. Add cubes of frozen butter during cooking for creamy texture.
    
+## Rice Dish
+### Steamed Rice
+1. Wash rice
+2. Soak for 30 minute
+3. Add to vessel. Add water 1 knuckle above rice.
+4. Add 1% salt.
+5. Bring to boil
+6. One water reaches top of rice. Reduce heat to low and close lid
+7. Wait 10-15 minutes until no water in vessel (check with fork)
+8. Close lid. Turn off heat. Let sit for 10 minutes.
+
+### Variations of Steamed rice
+1. Use 50% water. 50% cocounut milk.
+2. Use Soy sauce instead of salt.
+3. Add flavor to water - Onion powder, Garlic Powder, Lime Zest (never juice)
+4. Stock.
+
+### Flavored Rice
+1. Make steamed rice
+2. Flavor can be Tadka, Lime Juice, Crunch (Roasted peanuts), Gravy (Tomato and Onion), Chutney
+3. Mix.
+
+### Rice + Lentil
+1. Heat fat and whole spices
+2. Add prepped rice, lentil, water/stock
+3. Pressure cook for 15 minutes
+4. Add finishing spices - tadka or gravy (bisibele bhath)
+
+### Pulao
+1. Heat fat, add whole spices
+2. Add finely chopped vegetables
+3. Add brined and marinated meat
+4. Add washed and soaked rice. Cook with other ingredients
+5. Add water 1 knucle over rice
+6. Follow steamd rice instructions
+7. When water reaches rice, you may optionally add finishing spices like saffron in milk, garam masala. Must be done before closing lid.
+8. When fluffing, garnish with herbs

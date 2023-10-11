@@ -379,3 +379,23 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 2. Add salt
 3. Temper with whole spices - cumin, chillies mustard
 4. Garnish with fresh herbs like coriander.
+
+### Dal Elaborate
+1. Pressure-cook lentil
+2. Heat fat and add whole spices
+3. Cook onion until brown
+4. Add ginger, garlic, tomato. Reduce and thicken.
+5. Reduce heat and add spice powders (coriander, cumin)
+6. Add pressure cooked lentil.
+7. Add water, salt, and finishing spices.
+8. Temper with whole spices (mustard, cumin)
+9. Garnish with herbs and lime juice
+
+## Sambar Passable
+Similar steps as above with following differences. Tamarind needs more time to cook.
+1. For initial spice, use sambar spice powder mix.
+2. Add tamarind water before adding pressure cooked dal.
+3. For finishing spice, add more sambar powder or "finishing sambar powder mix".
+
+## General gravy
+Follow same steps as Dal Elaborate. But replace dal with prepped meat, seafood, vegetables or lentils.

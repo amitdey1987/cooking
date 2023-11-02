@@ -399,3 +399,17 @@ Similar steps as above with following differences. Tamarind needs more time to c
 
 ## General gravy
 Follow same steps as Dal Elaborate. But replace dal with prepped meat, seafood, vegetables or lentils.
+
+## Region
+|Cuisine|Ingredients|
+|-|-|
+|Gujarati|Gram Flour, yoghurt, sesameseeds, sugar, lime juice|
+|Punjabi|Ginger, Garlic, Onion, Tomato, Cumin powder, Corianged powder|
+|Chettinadu|Shallots, Garlic, Curry Leaves, Red Chillies and Fennel|
+|Malabar|Shallows, Garlic, Curry Leaves, Coconut Milk|
+|Mughlai|Cashew Nut Paste, Cream, Garam Masala|
+|Bhuna|Browned onion and slow cooking to thicken a gravy until it coats main ingredient|
+|Banarasi|Spice mixed in yogurt|
+|Jain|Use of turmeric, hing, coriander, jeera, chili powder|
+|Bengali|Use of mustard oil, panch phoran|
+

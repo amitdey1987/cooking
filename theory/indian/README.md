@@ -391,16 +391,16 @@ Flavors work best with layering. e.g. For Aloo jeera, do ALL of these
 8. Temper with whole spices (mustard, cumin)
 9. Garnish with herbs and lime juice
 
-## Sambar Passable
+### Sambar Passable
 Similar steps as above with following differences. Tamarind needs more time to cook.
 1. For initial spice, use sambar spice powder mix.
 2. Add tamarind water before adding pressure cooked dal.
 3. For finishing spice, add more sambar powder or "finishing sambar powder mix".
 
-## General gravy
+### General gravy
 Follow same steps as Dal Elaborate. But replace dal with prepped meat, seafood, vegetables or lentils.
 
-## Region
+### Region
 |Cuisine|Ingredients|
 |-|-|
 |Gujarati|Gram Flour, yoghurt, sesameseeds, sugar, lime juice|
@@ -413,3 +413,39 @@ Follow same steps as Dal Elaborate. But replace dal with prepped meat, seafood, 
 |Jain|Use of turmeric, hing, coriander, jeera, chili powder|
 |Bengali|Use of mustard oil, panch phoran|
 
+### Base Gravy
+1. Make Base Gravy
+2. Freeze
+3. During eating, cook frozen gravy, add fresh spices for layering
+
+### Makhani
+1. Take a big pot, heat butter and oil.
+2. Add coarsely chopped onion, garlic, ginger, tomato. Use more tomato than onion.
+3. Add whole spices like kashmiri red chilli, black cardamom, cloves, bay leaves and peper
+4. Add thickening agent like poppy seeeds or cashew paste
+5. Add water (or stock)
+6. Optionally add cream (better to add fresh during cooking)
+7. Cook at medium-low for hour
+8. Blend in mexer. Strain fibruous parts.
+
+#### Chettinadu
+Modify makhani gravy
+1. Use sesame oil
+2. Ginger, Garlic, Shallot, Curry Leaves and fennel.
+3. Add chicken stock, cook for hour.
+4. Use Rice flour as thickening agent
+
+#### Malabar Style
+Modify makhani gravy
+1. Coconut oil
+2. Garlic, Shallot, Curry Leaves, Chilli, Coriander Seeds.
+3. Add coconut milk diluted with water
+4. Cook on low heat for 30 minute
+
+#### Mughlai Style
+Modify makhani gravy
+1. Heat ghee
+2. Add ginger, garlic, onion
+3. Add whole garam masala
+4. Add Cashew or poppy for thickening
+5. Add milk and let it cook on low heat

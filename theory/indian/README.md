@@ -449,3 +449,37 @@ Modify makhani gravy
 3. Add whole garam masala
 4. Add Cashew or poppy for thickening
 5. Add milk and let it cook on low heat
+
+### Gravy Cheatsheet
+1. Use finishing spices, finishing oil sparingly.
+2. Use whole spices early, and spice powder later. Exception is turmeric and red chilli which we add for color and heat.
+3. To thicken gravy add rice, corn or wheat flour. But they will mute flavors a bit.
+4. If gravy is too intense, use far(ghee, butter, cream or coconut milk)
+5. If dish is too heavy, add acid.
+
+### Chutney Generator
+1. Cooked Ingredients - Beetroot, eggplant or cabbage (Pick 1/2)
+2. Raw Ingredients - Carrot, Radish. Season.  (Optional)
+3. Nutty Ingredients - Roasted lentils, cashew, coconut 
+4. Herbs - Mint or Coriander.
+5. Seasoning - Salt and Sugar to balance.
+6. Heat - Pepper, Ginger, Red or Green chilli
+7. Acid - Amchoor or Yogurt (for Raita)
+8. Tempering
+
+### Salad
+1. Green
+2. Carbs
+3. Vegetables - Cooked, Pickled or Raw (Seasoned)
+4. Fruits - Fresh or Sun-Dried
+5. Proteins
+6. Crunch - Nuts, Papad, Friend Onion
+7. Refrigerate
+
+#### Salad Sauce
+1. 3 Parts Fat
+2. 1 Part Acid
+3. Salt
+4. Sweet
+5. Heat
+6. Spices
